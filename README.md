@@ -2,7 +2,6 @@
 Notes compilation based on AWS E-Learning lessons and transcripts. 
 Source: AWS E-Learning Classroom
 
-
 **List of modules**:  
 Module 1 - Introduction to Amazon Web Services  
 Module 2 - Compute in the Cloud  
